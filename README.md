@@ -8,4 +8,4 @@
 
 |№|Название проекта|Описание|Использованные инструменты и библиотеки
 |-|----|---|-----
-|1| <a href="https://myrusakov.ru/">Анализ бизнес-показателей в Яндекс.Афише</a>|Изучено поведение пользователей сервиса и рассчитаны основные бизнес-показатели: DAU/WAU/MAU, Retention Rate, LTV, САС ROMI|pandas matplotlib seaborn numpy
+|1| <a href="https://github.com/karimovmarat/portfolio/tree/main/business_analysis#аналитика-в-яндексафише">Анализ бизнес-показателей в Яндекс.Афише</a>|Изучено поведение пользователей сервиса и рассчитаны основные бизнес-показатели: DAU/WAU/MAU, Retention Rate, LTV, САС ROMI|pandas matplotlib seaborn numpy
